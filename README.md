@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+💻 Software Engineer and Web Developer specializing in the MERN stack. I love building dynamic and scalable web applications.
+🎓 Studied Computer Science at ALX and IT-LEARNING, focusing on full-stack development and system design.
+🎥 Sharing tech tutorials, coding tips, and productivity hacks.
+🌱 Currently learning about cloud computing and microservices architecture.
+🌍 Blogging and #learninginpublic in my digital garden.
+🎮 Fun fact: I’m a gamer at heart and love exploring the intersection of tech and gaming!
+
+![AdnaneBc's Stats](https://github-readme-stats.vercel.app/api?username=AdnaneBc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
 **AdnaneBc/AdnaneBc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
